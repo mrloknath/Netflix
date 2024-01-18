@@ -28,4 +28,4 @@ This project is an Android application that replicates the Netflix homepage usin
 
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/your-username/netflix-clone-android.git](https://github.com/mrloknath/Netflix/)https://github.com/mrloknath/Netflix/
+   git clone https://github.com/your-username/netflix-clone-android.git](https://github.com/mrloknath/Netflix/)https://github.com/mrloknath/Netflix/

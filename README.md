@@ -12,6 +12,11 @@ This project is an Android application that replicates the Netflix homepage usin
 - Basic styling to replicate the Netflix UI.
 
 ## Screenshots
+<p align="center">
+  <img src="screenshots/Netflix_1.png" width="200" alt="Screenshot 1">
+  <img src="screenshots/Netflix_2.png" width="200" alt="Screenshot 2">
+  <img src="screenshots/Netflix_3.png" width="200" alt="Screenshot 3">
+</p>
 
 ![Screenshot 1](screenshots/Netflix_1.png) ![Screenshot 2](screenshots/Netflix_2.png) ![Screenshot 3](screenshots/Netflix_3.png)
 

@@ -13,9 +13,7 @@ This project is an Android application that replicates the Netflix homepage usin
 
 ## Screenshots
 
-![Screenshot 1](screenshots/Netflix_1.png)
-![Screenshot 2](screenshots/Netflix_2.png)
-![Screenshot 3](screenshots/Netflix_3.png)
+![Screenshot 1](screenshots/Netflix_1.png) ![Screenshot 2](screenshots/Netflix_2.png) ![Screenshot 3](screenshots/Netflix_3.png)
 
 ## Getting Started
 

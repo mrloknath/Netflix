@@ -1,6 +1,6 @@
 # Netflix Home Page Clone for Android
 
-![Netflix Clone](screenshots/NetflixHome.png)
+<img src="screenshots/NetflixHome.png" width="300" alt="Netflix Home Page">
 
 ## Overview
 
@@ -18,7 +18,6 @@ This project is an Android application that replicates the Netflix homepage usin
   <img src="screenshots/Netflix_3.png" width="200" alt="Screenshot 3">
 </p>
 
-![Screenshot 1](screenshots/Netflix_1.png) ![Screenshot 2](screenshots/Netflix_2.png) ![Screenshot 3](screenshots/Netflix_3.png)
 
 ## Getting Started
 
@@ -31,4 +30,4 @@ This project is an Android application that replicates the Netflix homepage usin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/netflix-clone-android.git](https://github.com/mrloknath/Netflix/)https://github.com/mrloknath/Netflix/
+   git clone https://github.com/mrloknath/Netflix.git

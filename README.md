@@ -1,6 +1,6 @@
 # Netflix Home Page Clone for Android
 
-![Netflix Clone](screenshots/netflix_clone_screenshot.png)
+![Netflix Clone](screenshots/NetflixHome.png)
 
 ## Overview
 

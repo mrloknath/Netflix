@@ -31,3 +31,6 @@ This project is an Android application that replicates the Netflix homepage usin
 1. Clone the repository:
    ```bash
    git clone https://github.com/mrloknath/Netflix.git
+
+ ## Download the apk 
+ <a src="https://github.com/mrloknath/Netflix/blob/main/APK/app-debug.apk" >
